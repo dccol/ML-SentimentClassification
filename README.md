@@ -1,6 +1,8 @@
 # ML-SentimentClassification
  Machine Learning Assignment 3: Sentiment Classification
 
+Decription below as described by the methodology present in the report. The notebook also contains headings and comments to improve readability
+
 This notebook is split up into three phases: The training phase, development phase, and test phase
 
 ## Training Phase 
